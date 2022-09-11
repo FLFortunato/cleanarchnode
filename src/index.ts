@@ -1,1 +1,4 @@
-console.log("Test");
+const testConsole = () => {
+  console.log("Test");
+};
+testConsole();
